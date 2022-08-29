@@ -8,5 +8,5 @@ This is a little copy of apple music website where you can search songs, see the
 
 ![screenshot](./itunes.jpg)
 
-[Go to WEBSITE of iTunes music searcher simple clone](https://itunes-simple-clone-a7486.web.app/)
+[Go to WEBSITE of iTunes music searcher simple clone](https://itunes-simple-clone-a7486.web.app/) <br />
 [Go to GITHUB REPO of iTunes music searcher simple clone](https://github.com/AvetBadalyan/iTunes-music-Searcher)
