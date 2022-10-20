@@ -20,3 +20,15 @@ This is an online food store with a nice styling and principal functions - view 
 
 [Go to WEBSITE of Online Food Store](https://online-foodstore.web.app/) <br />
 [Go to GITHUB REPO of Online Food Store](https://github.com/AvetBadalyan/Online-Food-Store)
+
+## 02. ONLINE CLOTHES SHOP
+
+ONLINE CLOTHES SHOP CREATED WITH REACT REDUX (includes Responsive & Adaptive design both for Web and Tablets and Mobile)
+
+This is an online clothes store with principal functions - view items menu with each item's name, price and description, click on add button to add the product to the cart, control the amount of chosen item, add or remove items to/from the cart. Also Authentication with Firebase - Sign up and login
+
+![screenshot](./cart.jpg)
+![screenshot](./mob%20shop.jpg)
+
+[Go to WEBSITE of Online Clothes Shop](https://avet-clothes-shop-f8267.web.app/) <br />
+[Go to GITHUB REPO of Online Clothes Shop](https://github.com/AvetBadalyan/Avet-Clothes-shop-with-Redux)
