@@ -42,6 +42,16 @@ With Mobile adaptation
 ![screenshot](./jokeTeller/robot.jpg)
 
 [Go to WEBSITE of Joke Teller](https://get-joke-f9568.web.app/) <br />
-[Go to GITHUB REPO of Online Clothes Shop](https://github.com/AvetBadalyan/Joke-Teller-with-Text-to-Speech)
+[Go to GITHUB REPO of Joke Teller](https://github.com/AvetBadalyan/Joke-Teller-with-Text-to-Speech)
 
+## 05. Quotes Generator (Pure HTML/CSS, JS)
 
+HERE IS A QUOTE GENERATOR! (a little app with Pure HTML/CSS and JS, Web and mobile responsive - data fetching and random generating)
+
+Click on "New Quote" button and read a new one!
+
+![screenshot](./quotesGenerator/quote%20home%20web.jpg)
+![screenshot](./quotesGenerator/quote%20home%20mobile.jpg)
+
+[Go to WEBSITE of QUOTE GENERATOR](https://quote-generator-c7fdb.web.app/). <br />
+[Go to GITHUB REPO of QUOTE GENERATOR](https://github.com/AvetBadalyan/Quote-Generator-Pure-HTML-CSS-JS)
