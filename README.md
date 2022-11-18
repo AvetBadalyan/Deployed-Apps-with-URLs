@@ -55,3 +55,15 @@ Click on "New Quote" button and read a new one!
 
 [Go to WEBSITE of QUOTE GENERATOR](https://quote-generator-c7fdb.web.app/). <br />
 [Go to GITHUB REPO of QUOTE GENERATOR](https://github.com/AvetBadalyan/Quote-Generator-Pure-HTML-CSS-JS)
+
+## 06. PICTURE IN PICTURE MODE OF YOUTUBE (Pure HTML/CSS, JS)
+
+You click on button and you can see the video playing when you navigate from site to site
+
+Link to Description - [https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/](https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/).
+
+![screenshot](./youtubeMode/pic%20in%20pic%20home.jpg)
+![screenshot](./youtubeMode/pic%20in%20pic%20google.jpg)
+
+[Go to WEBSITE of PICTURE IN PICTURE MODE](https://picture-in-picture-mode.web.app/). <br />
+[Go to GITHUB REPO of PICTURE IN PICTURE MODE](https://github.com/AvetBadalyan/Picture-in-Picture-mode)
