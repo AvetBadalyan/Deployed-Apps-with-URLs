@@ -1,6 +1,6 @@
 # MY WEBSITES WITH PUBLIC URLs
 
-Here are the Websites I have developed and deployed on firebase server.
+# Hey Guys! I am excited to share with you the Websites I have developed and deployed on firebase server, so that you can just click on the link and go to the site, have fun with reactive apps and evaluate my first steps in IT and Web. I will update this Portfolio periodically and regularly. Thank you for looking through it :)
 
 ## 01. AVET'S ONLINE FOOD STORE
 
@@ -80,3 +80,16 @@ Link to Description - [https://css-tricks.com/an-introduction-to-the-picture-in-
 
 [Go to WEBSITE of PICTURE IN PICTURE MODE](https://picture-in-picture-mode.web.app/). <br />
 [Go to GITHUB REPO of PICTURE IN PICTURE MODE](https://github.com/AvetBadalyan/Picture-in-Picture-mode)
+
+## 08. Tales of Cocktails with Redux Toolkit
+
+This is a little app with dynamic routing built with Redux Toolkit.
+You can see the whole collection of cocktails, search a single one, see details of a specific cocktail in another page.
+With Mobile Adaptation and Responsive design.
+
+![screenshot](./cocktails/cocktails-home.jpg)
+![screenshot](./cocktails/cocktails.jpg)
+![screenshot](./cocktails/single-cocktail.jpg)
+
+[Go to WEBSITE of Tales of Cocktails](https://tales-of-cocktails.web.app/). <br />
+[Go to GITHUB REPO of Tales of Cocktails](https://github.com/AvetBadalyan/Tales-of-Cocktails-Redux-Toolkit)
